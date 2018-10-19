@@ -1,0 +1,17 @@
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\bin\Debug\DieuChinhEHostpital.exe.config
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\bin\Debug\DieuChinhEHostpital.exe
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\bin\Debug\DieuChinhEHostpital.pdb
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\bin\Debug\System.Net.Http.dll
+D:\Projects\DieuChinhEHostpital\1.Deployment\DieuChinhEHostpital.exe.config
+D:\Projects\DieuChinhEHostpital\1.Deployment\DieuChinhEHostpital.exe
+D:\Projects\DieuChinhEHostpital\1.Deployment\DieuChinhEHostpital.pdb
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\obj\Debug\DieuChinhEHostpital.ChinhSoLePDT.resources
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\obj\Debug\DieuChinhEHostpital.SaveBenhAn.resources
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\obj\Debug\DieuChinhEHostpital.MainForm.resources
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\obj\Debug\DieuChinhEHostpital.Properties.Resources.resources
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\obj\Debug\DieuChinhEHostpital.csproj.GenerateResource.Cache
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\obj\Debug\DieuChinhEHostpital.exe.licenses
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\obj\Debug\DieuChinhEHostpital.csproj.CoreCompileInputs.cache
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\obj\Debug\DieuChinhEHostpital.exe
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\obj\Debug\DieuChinhEHostpital.pdb
+D:\Projects\DieuChinhEHostpital\DieuChinhEHostpital\obj\Debug\DieuChinhEHostpital.csprojResolveAssemblyReference.cache
